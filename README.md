@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   
 ![ALX-Banner](https://github.com/elyse502/alx-backend/assets/125453474/eb1e33ed-9628-43e7-b44d-034313502cf9)
 </div>
