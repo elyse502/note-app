@@ -25,6 +25,13 @@ Welcome to my ALX Final Portfolio! This portfolio showcases the development of a
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
+<div align="center">
+  
+![unnamed](https://github.com/elyse502/note-app/assets/125453474/66ba841a-efb0-41dc-ba4d-368906d2c9c2)
+</div>
+
+---
+
 ## Overview
 
 The **Note App** is a web-based application designed to allow users to create, view, and delete notes. It's built using the Flask web framework and incorporates features such as user authentication, database storage, and dynamic rendering of content. The project demonstrates proficiency in backend development and serves as a showcase of Full Stack Software Engineering skills.
@@ -220,5 +227,8 @@ If you like how I present and document my work do me a favor of giving a Star âœ
 
 <p align="center">
 <h2 align="center"><img align="center" src="https://github.com/elyse502/AirBnB_clone/assets/125453474/ab3c1e01-2b98-47ae-96b7-37c07c85a2f1" alt="footer" width="150"  height="150"/></h2>
+
+
+
 
 
