@@ -20,6 +20,7 @@ Welcome to my ALX Final Portfolio! This portfolio showcases the development of a
 - [Components](#components)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Structure](#structure)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
@@ -27,6 +28,8 @@ Welcome to my ALX Final Portfolio! This portfolio showcases the development of a
 ## Overview
 
 The **Note App** is a web-based application designed to allow users to create, view, and delete notes. It's built using the Flask web framework and incorporates features such as user authentication, database storage, and dynamic rendering of content. The project demonstrates proficiency in backend development and serves as a showcase of Full Stack Software Engineering skills.
+
+---
 
 ## Technologies-Used
 The Note App project utilizes the following technologies and tools:
@@ -45,6 +48,8 @@ The Note App project utilizes the following technologies and tools:
 
 These technologies collectively enable the development of a robust and user-friendly web application for managing notes effectively.
 
+---
+
 ## Components
 
 The project consists of the following components:
@@ -59,6 +64,8 @@ The project consists of the following components:
     - `__init__.py`, `auth.py`, `models.py`, `views.py` - Python modules containing application logic.
 - `main.py` - Main Python script to run the Flask application.
 - `requirements.txt` - File containing dependencies required to run the application.
+
+---
 
 ## Installation
 
@@ -107,6 +114,8 @@ To install and run the Note App on your local machine, follow these steps:
    ```
 7. Access the application in your web browser at `http://localhost:5000`.
 
+---
+
 ## Usage
 Once the application is running, you can access it in your web browser. Here are some key features:
 
@@ -114,6 +123,51 @@ Once the application is running, you can access it in your web browser. Here are
 * **Login Page**: Authenticate with your email and password.
 * **Sign-Up Page**: Create a new account.
 * **Logout**: Log out of the application.
+
+---
+
+## Structure
+Here is the `Structure` of the **note-app🗒️**:
+```groovy
+elysee_niyibizi@HACKER:~/note-app$ ls
+AUTHORS  LICENSE  README.md  Src  requirements.txt  venv
+elysee_niyibizi@HACKER:~/note-app$ tree -I venv
+.
+├── AUTHORS
+├── LICENSE
+├── README.md
+├── Src
+│   ├── instance
+│   │   └── database.db
+│   ├── main.py
+│   └── website
+│       ├── __init__.py
+│       ├── __pycache__
+│       │   ├── __init__.cpython-312.pyc
+│       │   ├── __init__.cpython-38.pyc
+│       │   ├── auth.cpython-312.pyc
+│       │   ├── auth.cpython-38.pyc
+│       │   ├── models.cpython-312.pyc
+│       │   ├── models.cpython-38.pyc
+│       │   ├── views.cpython-312.pyc
+│       │   └── views.cpython-38.pyc
+│       ├── auth.py
+│       ├── models.py
+│       ├── static
+│       │   └── index.js
+│       ├── templates
+│       │   ├── base.html
+│       │   ├── home.html
+│       │   ├── login.html
+│       │   └── sign_up.html
+│       └── views.py
+└── requirements.txt
+
+6 directories, 23 files
+elysee_niyibizi@HACKER:~/note-app$
+```
+
+---
 
 ## Contributing
 Contributions to the Note App project are welcome! If you'd like to contribute, please follow these steps:
@@ -125,6 +179,8 @@ Contributions to the Note App project are welcome! If you'd like to contribute, 
 5. Push to the branch (`git push origin feature/new-feature`).
 6. Create a new Pull Request.
 
+---
+
 ## Acknowledgements
 I would like to express my gratitude to the following individuals and organizations for their support and guidance throughout my journey in the [ALX-Africa](https://tech.alxafrica.com/rwanda?utm_source=google&utm_medium=pmax&utm_campaign=kgl_2024q1&utm_term=tofu-applications-tech-lite-rw&gad_source=1&gclid=CjwKCAiA_5WvBhBAEiwAZtCU70OGXSQKneP9Knvb8LXGqW0FOhcSbUJvZds7kCS2QXKmNYhQGVUHMxoCq3cQAvD_BwE) Software Engineering programme:
 
@@ -134,21 +190,35 @@ I would like to express my gratitude to the following individuals and organizati
 * [**Mastercard Foundation:**](https://mastercardfdn.org/) I am immensely grateful for the opportunity to participate in the ALX Africa program, made possible through your generous sponsorship. Your commitment to empowering African youth with the technical skills and resources necessary to thrive in the global workforce is truly inspiring.
 * [**Fred Swaniker:**](https://en.wikipedia.org/wiki/Fred_Swaniker) I extend my sincere appreciation to Fred Swaniker for his visionary leadership and dedication to creating the next generation of African leaders and innovators. His unwavering belief in the potential of African talent has been instrumental in driving positive change and progress across the continent.
 
-**_Thank you for visiting my ALX Final Portfolio! If you have any questions or feedback, feel free to reach out._**
+<div align="center">
+
+_**A good `note-taking` system is essential for capturing information [@kalibetre](https://twitter.com/kalibetre/status/1770038721267618025)✍️**. For more info visit 👉 [LINK](https://www.google.com/search?q=A+good+note-taking+system+is+essential+for+capturing+information&oq=A+good+note-taking+system+is+essential+for+capturing+information&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYPTIGCAQQRRg80gEHNTkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) ........😉_
+</div>
+
+---
 
 ## Author :black_nib:
 1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee)👨🏿‍💻 | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
 
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+**_Thank you for visiting my ALX Final Portfolio! If you have any questions or feedback, feel free to reach out. Regards🙏_**
+</div>
+
+---
 
 ## Support🎉
 If you like how I present and document my work do me a favor of giving a Star ✨ to my [Repos](https://github.com/elyse502?tab=repositories) |&&| a [Follow](https://github.com/elyse502) 👥
 
 <p align="center">
 <h2 align="center"><img align="center" src="https://github.com/elyse502/AirBnB_clone/assets/125453474/ab3c1e01-2b98-47ae-96b7-37c07c85a2f1" alt="footer" width="150"  height="150"/></h2>
-
-
 
 
