@@ -46,6 +46,7 @@ The Note App project utilizes the following technologies and tools:
 * **SQLite:** A relational database management system used for storing user data and notes.
 * **Flask-Login:** A Flask extension for managing user sessions and authentication.
 * **Bootstrap:** A front-end framework for designing responsive and mobile-first websites.
+* **Jinja:** The most popular template engine for Python projects.
 * **JavaScript:** Used for client-side scripting and dynamic interactions.
 * **jQuery:** A fast, small, and feature-rich JavaScript library for simplifying client-side scripting.
 * **HTML:** The standard markup language for creating web pages and applications.
@@ -227,7 +228,6 @@ If you like how I present and document my work do me a favor of giving a Star âœ
 
 <p align="center">
 <h2 align="center"><img align="center" src="https://github.com/elyse502/AirBnB_clone/assets/125453474/ab3c1e01-2b98-47ae-96b7-37c07c85a2f1" alt="footer" width="150"  height="150"/></h2>
-
 
 
 
